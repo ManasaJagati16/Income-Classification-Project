@@ -1,0 +1,2 @@
+# Project Presentation
+In this project, data is classified into two categories considering income as a target variable which is based on various independent variables. Feature selection techniques like PCA, Random Forest are used and trained data with classifiers like Logistic Regression, Random Forest, Gradient Boosting, SVM and KNN. With no feature selection method applied on data, Gradient Boosting algorithm shown high test accuracy.
